@@ -11,6 +11,11 @@
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
+<a href="https://www.kristinkundevska.com/">
+  <img align="center" src="https://static.wixstatic.com/media/009c4c_7489f05446e3422e8989d923ab668a1e~mv2.png/v1/fill/w_382,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Adobe_Express_20230605_2030570_1_edited.png"  />
+</a>
+
+
 - 💻I am proficient in:
 <p align="center">
 <a href="#" terget="_blank"> <img src="https://www.python.org/static/img/psf-logo@2x.png" alt="Python" height="60"/> </a>
