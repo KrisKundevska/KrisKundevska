@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.kristinkundevska.com/">
-  <img align="center" src="https://static.wixstatic.com/media/009c4c_7489f05446e3422e8989d923ab668a1e~mv2.png/v1/fill/w_382,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Adobe_Express_20230605_2030570_1_edited.png"  />
+  <img align="center" src="https://static.wixstatic.com/media/009c4c_09657a5414f0459396592a0f7fcbca76~mv2.png/v1/fill/w_772,h_227,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/009c4c_09657a5414f0459396592a0f7fcbca76~mv2.png" width="100" height="30" />
 </a>
 
 
