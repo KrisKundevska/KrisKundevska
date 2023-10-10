@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Kris Kundevska
 - 👀 I'm interested in becoming a Business Analyst in the gaming, financial, or logistics and distribution fields.
 - 🌱 I'm currently learning more about visualization tools and R.
@@ -26,6 +27,18 @@
 <a href="#" target="_blank"> <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true" />
+</picture>
 
 <!---
 KrisKundevska/KrisKundevska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
