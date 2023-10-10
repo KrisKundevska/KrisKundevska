@@ -28,17 +28,13 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriskundevska&langs_count=8&theme=dark)
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kriskundevska&show_icons=true" />
-</picture>
+    media="(prefers-color-scheme: dark)"
+  
 
 <!---
 KrisKundevska/KrisKundevska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
